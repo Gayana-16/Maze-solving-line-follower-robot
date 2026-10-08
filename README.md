@@ -49,5 +49,5 @@ line_following_robot/
 
 ## 🧠 Author
 
-Created by Gobinath  
+Created by Gayana
 For academic and robotics learning purposes.
